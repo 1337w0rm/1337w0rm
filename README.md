@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Aditya Kumar Singh</h1>
 <h3 align="center">B.Tech CSE Graduate 2022 | OPEN TO WORK</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=1337w0rm&label=Profile%20views&color=0e75b6&style=flat" alt="random-robbie" /> </p>
-
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
